@@ -71,13 +71,64 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www
 </item-->
 
 <item>
+<title>EYEMVX – Phase Flow 122</title>
+<itunes:author>EYEMVX</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>Episode 122</itunes:subtitle>
+<description>
+<![CDATA[ 
+<p><strong>Phase Flow Podcast</strong></p>
+<p>Episode 122</p><br>
+<p><strong>Tracklist:</strong></p>
+<p>01. Don Diablo x Hilda – Wake Me When It's Quiet [HEXAGON]<br>
+02. Lika Morgan – Go with the Flow [NO DEFINITION]<br>
+03. Felon ft. Hayley – Till The Morning [ARMADA DEEP]<br>
+04. Croatia Squad - Deep Dish It [ENORMOUS TUNES]<br>
+05. Leandro Da Silva - So Excited (Calippo Remix) [ENORMOUS TUNES]<br>
+06. Loud Luxury ft. Dyson – Sex Like Me [AFTR:HRS]<br>
+07. KYANU ft. Alexandra Prince - So Many Times (Husko Remix) [PLAYBOX]<br>
+08. Malaa x Noizu – Music Sounds Better With You [FREE]<br>
+09. Cheat Codes – Balenciaga [SPINNIN']<br>
+10. KOOS – Eruption [CONFESSION]<br>
+11. JLV – Forgotten [SPINNUP]<br>
+12. GSPR - We'll Be Alright [STRANGE FRUITS]<br>
+13. Madison Mars ft. Caslin – All They Wanna Be (Denis First & Reznikov Remix) [ENHANCED]<br>
+14. Armin van Buuren - Therapy (Jordi Rivera Remix) [FREE]<br>
+15. Firebeatz & DubVision- Remember Who You Are [IGNITE]<br>
+16. Feenixpawl ft. Mikayla - Neon Sky [ECLYPSE (ARMADA)]<br>
+17. Sven Kirchhof & The Trixx ft. Shandra Dixon - Follow Me (Domaz Remix) [120dB]<br>
+18. Safri Duo – Played-A-Live [UNIVERSAL]<br>
+</p>
+<a href="http://www.phaseflow.ru" style="color:#ca3495">Website</a><br>
+<a href="http://vk.com/eyemvx" style="color:#039be5">VK</a><br>
+<a href="http://pca.st/wpos" style="color:#f44336">Pocket Casts</a><br> 
+<a href="http://twitter.com/phaseflow" style="color:#1da1f2">Twitter</a><br>
+<a href="http://soundcloud.com/phaseflow" style="color:#ff9800">Soundcloud</a><br>
+<a href="http://mixcloud.com/phaseflow" style="color:#cecece">Mixcloud</a><br>
+<a href="http://www.instagram.com/phaseflow" style="color:#2196f3">Instagram</a><br>
+<a href="http://www.t.me/phaseflow" style="color:#039be5">Telegram</a><br>]]>
+</description>
+<itunes:image href="http://archive.org/download/PF_122/122.jpg" />
+<itunes:keywords>
+   house, deep house, progressive house, future house, trap, eyemax, phaseflow, podcast, live, progressive, electro, deep, beats, dj, dance, chart, hit, mashup, remix, recordings
+</itunes:keywords>
+<link><![CDATA[http://archive.org/details/PF_122/index.html]]></link>
+<enclosure
+  url="http://archive.org/download/PF_122/122.mp3"
+  length="144261753"
+  type="audio/mpeg" />
+<guid isPermaLink="false">Episode 122</guid>
+<pubDate>Sat, 12 May 2018 22:00:00 GMT</pubDate>
+<itunes:duration>60:00</itunes:duration>
+</item>
+
+<item>
 <title>EYEMVX – Phase Flow 121</title>
 <itunes:author>EYEMVX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 121</itunes:subtitle>
 <description>
-<![CDATA[ 
-<p><strong>Phase Flow Podcast</strong></p>
+<![CDATA[<p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 121</p><br>
 <p><strong>Tracklist:</strong></p>
 <p>01. Bart B More & Das Kapital – The Rooster [THIS AIN'T BRISTOL]<br>
@@ -97,16 +148,7 @@ w/ David Guetta ft. Justin Bieber – 2U [PARLOPHONE (WARNER)]<br>
 14. Michael Calfan – Got You [WARNER MUSIC]<br>
 15. Komanchi – For You [DISCOVERY MUSIC RCDS]<br>
 16. Andrew Belize & Adaptiv ft. Menno – Butterfly [REVEALED]<br>
-17. Peter Nemeth X Sixth Sense – Monarch [ARISE]
-</p>
-<a href="http://www.phaseflow.ru" style="color:#ca3495">Website</a><br>
-<a href="http://vk.com/eyemvx" style="color:#039be5">VK</a><br>
-<a href="http://pca.st/wpos" style="color:#f44336">Pocket Casts</a><br> 
-<a href="http://twitter.com/phaseflow" style="color:#1da1f2">Twitter</a><br>
-<a href="http://soundcloud.com/phaseflow" style="color:#ff9800">Soundcloud</a><br>
-<a href="http://mixcloud.com/phaseflow" style="color:#cecece">Mixcloud</a><br>
-<a href="http://www.instagram.com/phaseflow" style="color:#2196f3">Instagram</a><br>
-<a href="http://www.t.me/phaseflow" style="color:#039be5">Telegram</a><br>]]>
+17. Peter Nemeth X Sixth Sense – Monarch [ARISE]</p>]]>
 </description>
 <itunes:image href="http://archive.org/download/PF_121/121.jpg" />
 <itunes:keywords>
@@ -128,8 +170,7 @@ w/ David Guetta ft. Justin Bieber – 2U [PARLOPHONE (WARNER)]<br>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 120</itunes:subtitle>
 <description>
-<![CDATA[ 
-<p><strong>Phase Flow Podcast</strong></p>
+<![CDATA[<p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 120</p><br>
 <p><strong>Tracklist:</strong></p>
 <p>01. Avicii ft. Aloe Blacc – Wake Me Up [PRMD/ISLAND]<br>
@@ -170,8 +211,7 @@ w/ David Guetta ft. Justin Bieber – 2U [PARLOPHONE (WARNER)]<br>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 119</itunes:subtitle>
 <description>
-<![CDATA[ 
-<p><strong>Phase Flow Podcast</strong></p>
+<![CDATA[<p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 119</p><br>
 <p><strong>Tracklist:</strong></p>
 <p>01. G-Eazy & Halsey – Him & I (Asher Remix)<br>
@@ -215,8 +255,7 @@ w/ David Guetta ft. Justin Bieber – 2U [PARLOPHONE (WARNER)]<br>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 118</itunes:subtitle>
 <description>
-<![CDATA[ 
-<p><strong>Phase Flow Podcast</strong></p>
+<![CDATA[<p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 118</p><br>
 <p><strong>Tracklist:</strong></p>
 <p>01. DJ Licious ft. Jack Hawitt – Twisted Games [SOURCE]<br>
@@ -258,8 +297,7 @@ w/ David Guetta ft. Justin Bieber – 2U [PARLOPHONE (WARNER)]<br>
 <itunes:explicit>No</itunes:explicit>
 <itunes:subtitle>Episode 117</itunes:subtitle>
 <description>
-<![CDATA[ 
-<p><strong>Phase Flow Podcast</strong></p>
+<![CDATA[<p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 117</p><br>
 <p><strong>Tracklist:</strong></p>
 <p>01. Claude VonStroke – Make A Cake [BITBIRD]<br>
@@ -437,23 +475,23 @@ house, deep house, progressive house, edm, trap
 <p><strong>Phase Flow Podcast</strong></p>
 <p>Episode 113</p><br>
 <p><strong>Tracklist:</strong></p>
-<p>01. Don Diablo — Reflections [HEXAGON]
-02. Bad Computer – Disarray [MONSTERCAT]
-03. Mordkey x musicbyLUKAS – Rock My Heart [SPINNIN' TALENTPOOL]
-04. Doreus – Light [RED LAKE]
-05. R3hab x Mike Williams — Lullaby [R3HAB]
-06. J-Trick & Folly – No Games [PINNACLE COLLECTIVE]
-07. Will K – Sour Milk vs. Gianluca Vacchi — Trump-It (EYEMVX mashup)
-08. Dzeko ft. TOKA-J – Heart Speak (Dzeko vs. Waves Remix) [MUSICAL FREEDOM]
-09. GTA ft. Dillon Francis, Wax Motif & Anna Lunoe – I Can’t Hold On [MAD DECENT]
-10. Nightcrawlers x John Reid ft. Big Narstie – Push the Feeling [SONY]
-11. Slushii ft. Marshmello – There x2 [TUNECORE/FREE]
-12. Dyro & GTA — Talkin Bout [SPINNIN']
-13. Pegboard Nerds & Lug00ber – Bring Me Joy [MONSTERCAT]
-14. Rusko – Everyday (Netsky Remix) [MAD DECENT]
-15. R3hab x Lia Marie Johnson – The Wave [R3HAB]
-16. Marshmello X Anne-Marie — FRIENDS [JOYTIME COLLECTIVE]
-17. Plastic Funk — Keep You Close [ARMADA TRICE]
+<p>01. Don Diablo — Reflections [HEXAGON]<br>
+02. Bad Computer – Disarray [MONSTERCAT]<br>
+03. Mordkey x musicbyLUKAS – Rock My Heart [SPINNIN' TALENTPOOL]<br>
+04. Doreus – Light [RED LAKE]<br>
+05. R3hab x Mike Williams — Lullaby [R3HAB]<br>
+06. J-Trick & Folly – No Games [PINNACLE COLLECTIVE]<br>
+07. Will K – Sour Milk vs. Gianluca Vacchi — Trump-It (EYEMVX mashup)<br>
+08. Dzeko ft. TOKA-J – Heart Speak (Dzeko vs. Waves Remix) [MUSICAL FREEDOM]<br>
+09. GTA ft. Dillon Francis, Wax Motif & Anna Lunoe – I Can’t Hold On [MAD DECENT]<br>
+10. Nightcrawlers x John Reid ft. Big Narstie – Push the Feeling [SONY]<br>
+11. Slushii ft. Marshmello – There x2 [TUNECORE/FREE]<br>
+12. Dyro & GTA — Talkin Bout [SPINNIN']<br>
+13. Pegboard Nerds & Lug00ber – Bring Me Joy [MONSTERCAT]<br>
+14. Rusko – Everyday (Netsky Remix) [MAD DECENT]<br>
+15. R3hab x Lia Marie Johnson – The Wave [R3HAB]<br>
+16. Marshmello X Anne-Marie — FRIENDS [JOYTIME COLLECTIVE]<br>
+17. Plastic Funk — Keep You Close [ARMADA TRICE]<br>
 18. AREA21 — Happy [STMPD]</p>]]>
 </description>
 <itunes:image href="http://archive.org/download/PF113/113.jpg" />
