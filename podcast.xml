@@ -71,6 +71,58 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www
 </item-->
 
 <item>
+<title>EYEMVX – Phase Flow 124</title>
+<itunes:author>EYEMVX</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>Episode 124</itunes:subtitle>
+<description>
+<![CDATA[ 
+<p><strong>Phase Flow Podcast</strong></p>
+<p>Episode 124</p><br>
+<p><strong>Tracklist:</strong></p>
+<p>01. Scott Forshaw & Greg Stainer – I Don't Know [PINKSTAR]<br>
+02. Sons Of Maria – Break Through [ENORMOUS TUNES]<br>
+03. The Cages feat. Fiora – Behind<br>
+04. Lucas & Steve x Brandy – I Could Be Wrong [SPINNIN']<br>
+05. Bolier & Joe Stone – Keep This Fire Burning [SPINNIN']<br>
+06. Bottai – Assioma [DOORN (SPINNIN')]<br>
+07. Robin S – Show Me Love (JAGGS Bootleg) [ATLANTIC (WARNER)]<br>
+08. Alok, Zeeba & IRO – Ocean (Alok & Scorsi Remix) [FREE]<br>
+09. Retrovision – Get Down [MUSICAL FREEDOM]<br>
+10. Adrien Mezsi & Noizy Mark vs. Drop Department – Love Vibrations 2k18 [FREE]<br>
+11. Curbi & Quintino – Get Down [SPINNIN']<br>
+12. D-Wayne x Pnut & Jelly – I Got You [CHILL PLANET]<br>
+13. Céline Dion – Ashes (Steve Aoki Deadpool Demix) [SONY]<br>
+14. Said The Sky ft. Matthew Coma – Over Getting Over You [SEEKING BLUE]<br>
+15. BEAUZ & KHNG ft. Elle Vee – Goodbye [TRAP NATION]<br>
+16. Pyrodox ft. Oisin – Lovers In The Dark [TRAP CITY]<br>
+17. Stereohats & Medii – Inner Symphony [LOWLY PALACE]<br>
+18. Borgeous – All That I Need [GEOUSUS]<br>
+</p>
+<a href="http://www.phaseflow.ru" style="color:#ca3495">Website</a><br>
+<a href="http://vk.com/eyemvx" style="color:#039be5">VK</a><br>
+<a href="http://pca.st/wpos" style="color:#f44336">Pocket Casts</a><br> 
+<a href="http://twitter.com/phaseflow" style="color:#1da1f2">Twitter</a><br>
+<a href="http://soundcloud.com/phaseflow" style="color:#ff9800">Soundcloud</a><br>
+<a href="http://mixcloud.com/phaseflow" style="color:#cecece">Mixcloud</a><br>
+<a href="http://www.instagram.com/phaseflow" style="color:#2196f3">Instagram</a><br>
+<a href="http://www.t.me/phaseflow" style="color:#039be5">Telegram</a><br>]]>
+</description>
+<itunes:image href="http://archive.org/download/PF_124/124.jpg" />
+<itunes:keywords>
+   house, deep house, progressive house, future house, trap, eyemax, phaseflow, podcast, live, progressive, electro, deep, beats, dj, dance, chart, hit, mashup, remix, recordings
+</itunes:keywords>
+<link><![CDATA[http://archive.org/details/PF_124/index.html]]></link>
+<enclosure
+  url="http://archive.org/download/PF_124/124.mp3"
+  length="144161692"
+  type="audio/mpeg" />
+<guid isPermaLink="false">Episode 124</guid>
+<pubDate>Sun, 27 May 2018 21:00:00 GMT</pubDate>
+<itunes:duration>60:00</itunes:duration>
+</item>
+
+<item>
 <title>EYEMVX – Phase Flow 123</title>
 <itunes:author>EYEMVX</itunes:author>
 <itunes:explicit>No</itunes:explicit>
@@ -99,15 +151,7 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www
 17. Naulé – With You [NEON FRUITS]<br>
 18. Justin Mylo – Live Like This [ON / OFF]<br>
 19. RØGUENETHVN & Joshua Francois ft. Franco Junior – Not Around [STRANGE FRUITS]
-</p>
-<a href="http://www.phaseflow.ru" style="color:#ca3495">Website</a><br>
-<a href="http://vk.com/eyemvx" style="color:#039be5">VK</a><br>
-<a href="http://pca.st/wpos" style="color:#f44336">Pocket Casts</a><br> 
-<a href="http://twitter.com/phaseflow" style="color:#1da1f2">Twitter</a><br>
-<a href="http://soundcloud.com/phaseflow" style="color:#ff9800">Soundcloud</a><br>
-<a href="http://mixcloud.com/phaseflow" style="color:#cecece">Mixcloud</a><br>
-<a href="http://www.instagram.com/phaseflow" style="color:#2196f3">Instagram</a><br>
-<a href="http://www.t.me/phaseflow" style="color:#039be5">Telegram</a><br>]]>
+</p>]]>
 </description>
 <itunes:image href="http://archive.org/download/PF_123/123.jpg" />
 <itunes:keywords>
@@ -241,7 +285,7 @@ w/ David Guetta ft. Justin Bieber – 2U [PARLOPHONE (WARNER)]<br>
 </itunes:keywords>
 <link><![CDATA[http://archive.org/details/PF_120/index.html]]></link>
 <enclosure
-  url="http://audio2.geometria.ru/d/mp3/270/850/270850134.mp3"
+  url="http://archive.org/download/PF_120/120.mp3"
   length="143393944"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 120</guid>
@@ -285,7 +329,7 @@ w/ David Guetta ft. Justin Bieber – 2U [PARLOPHONE (WARNER)]<br>
 </itunes:keywords>
 <link><![CDATA[http://archive.org/details/PF_119/index.html]]></link>
 <enclosure
-  url="http://audio2.geometria.ru/d/mp3/870/225/87022573.mp3"
+  url="http://archive.org/download/PF_119/119.mp3"
   length="142636458"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 119</guid>
@@ -327,7 +371,7 @@ w/ David Guetta ft. Justin Bieber – 2U [PARLOPHONE (WARNER)]<br>
 </itunes:keywords>
 <link><![CDATA[http://archive.org/details/PF_118/index.html]]></link>
 <enclosure
-  url="http://audio.geometria.ru/d/mp3/357/818/357818721.mp3"
+  url="http://archive.org/download/PF_118/118.mp3"
   length="130354754"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 118</guid>
@@ -362,13 +406,13 @@ w/ David Guetta ft. Justin Bieber – 2U [PARLOPHONE (WARNER)]<br>
 16. Bryce Vine – Drew Barrymore (Crankdat Remix) [SIRE]
 </p>]]>
 </description>
-<itunes:image href="http://thumbnailer.mixcloud.com/unsafe/1080x1080/extaudio/b/9/2/0/8763-e5c8-476a-b092-f9b52d4f4bb5" />
+<itunes:image href="http://archive.org/download/PF_117/117.jpg" />
 <itunes:keywords>
    house, deep house, progressive house, future house, trap, eyemax, phaseflow, podcast, live, progressive, electro, deep, beats, dj, dance, chart, hit, mashup, remix, recordings
 </itunes:keywords>
-<link><![CDATA[http://archive.org/details/PF117/index.html]]></link>
+<link><![CDATA[http://archive.org/details/PF_117/index.html]]></link>
 <enclosure
-  url="http://audio2.geometria.ru/d/mp3/274/899/2748991333.mp3"
+  url="http://archive.org/download/PF_117/117.mp3"
   length="145477592"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 117</guid>
@@ -413,7 +457,7 @@ house, deep house, progressive house, edm, trap
 </itunes:keywords>
 <link><![CDATA[http://archive.org/details/PF_116/index.html]]></link>
 <enclosure
-  url="http://audio.geometria.ru/d/mp3/749/994/749994706.mp3"
+  url="http://archive.org/download/PF_116/116.mp3"
   length="143799482"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 116</guid>
@@ -457,7 +501,7 @@ house, deep house, progressive house, edm, trap
 </itunes:keywords>
 <link><![CDATA[http://archive.org/details/PF115/index.html]]></link>
 <enclosure
-  url="http://audio.geometria.ru/d/mp3/206/289/2062896686.mp3"
+  url="http://archive.org/download/PF115/115.mp3"
   length="144307355"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 115</guid>
@@ -501,7 +545,7 @@ house, deep house, progressive house, edm, trap
 </itunes:keywords>
 <link><![CDATA[http://archive.org/details/PF_114/index.html]]></link>
 <enclosure
-  url="http://audio2.geometria.ru/d/mp3/390/442/3904424070.mp3"
+  url="http://archive.org/download/PF_114/114.mp3"
   length="139527850"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 114</guid>
@@ -544,7 +588,7 @@ house, deep house, progressive house, edm, trap
 </itunes:keywords>
 <link><![CDATA[http://archive.org/details/PF113/index.html]]></link>
 <enclosure
-  url="http://audio2.geometria.ru/d/mp3/233/045/2330459421.mp3"
+  url="http://archive.org/download/PF113/113.mp3"
   length="135398238"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 113</guid>
@@ -588,7 +632,7 @@ house, deep house, progressive house, edm, trap
 </itunes:keywords>
 <link><![CDATA[http://archive.org/details/PF112/index.html]]></link>
 <enclosure
-  url="http://audio.geometria.ru/d/mp3/352/205/3522056731.mp3"
+  url="http://archive.org/download/PF112/112.mp3"
   length="135409509"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 112</guid>
@@ -630,7 +674,7 @@ house, deep house, progressive house, edm, trap
 </itunes:keywords>
 <link><![CDATA[http://archive.org/details/PF111/index.html]]></link>
 <enclosure
-  url="http://audio2.geometria.ru/d/mp3/142/178/1421784713.mp3"
+  url="http://archive.org/download/PF111/111.mp3"
   length="139415516"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 111</guid>
@@ -730,7 +774,7 @@ house, deep house, progressive house, edm, trap
 </itunes:keywords>
 <link><![CDATA[http://archive.org/details/yearmix/index.html]]></link>
 <enclosure
-  url="http://audio2.geometria.ru/d/mp3/961/719/961719813.mp3"
+  url="http://archive.org/download/yearmix/110.mp3"
   length="173160469"
   type="audio/mpeg" />
 <guid isPermaLink="false">Year Mix 2017</guid>
@@ -774,7 +818,7 @@ house, deep house, progressive house, edm, trap
 </itunes:keywords>
 <link><![CDATA[http://archive.org/details/PF109/index.html]]></link>
 <enclosure
-  url="http://audio2.geometria.ru/d/mp3/171/357/1713570216.mp3"
+  url="http://archive.org/download/PF109/109.mp3"
   length="125927824"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 109</guid>
@@ -820,7 +864,7 @@ house, deep house, progressive house, edm, trap
 </itunes:keywords>
 <link><![CDATA[http://audio2.geometria.ru/d/mp3/390/501/3905014595.mp3]]></link>
 <enclosure
-  url="http://audio2.geometria.ru/d/mp3/390/501/3905014595.mp3"
+  url="http://archive.org/download/PF108/108.mp3"
   length="144148991"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 108</guid>
@@ -865,7 +909,7 @@ house, deep house, progressive house, edm, trap
 </itunes:keywords>
 <link><![CDATA[http://archive.org/details/PF_107/index.html]]></link>
 <enclosure
-  url="http://audio2.geometria.ru/d/mp3/218/872/2188729188.mp3"
+  url="http://archive.org/download/PF_107/107.mp3"
   length="144188366"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 107</guid>
@@ -905,7 +949,7 @@ house, deep house, progressive house, edm, trap
 </itunes:keywords>
 <link><![CDATA[http://archive.org/details/PF_106/index.html]]></link>
 <enclosure
-  url="http://audio.geometria.ru/d/mp3/691/188/691188919.mp3"
+  url="http://archive.org/download/PF_106/106.mp3"
   length="133031678"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 106</guid>
@@ -947,7 +991,7 @@ house, deep house, progressive house, edm, trap
 </itunes:keywords>
 <link><![CDATA[http://archive.org/details/ADE2017/index.html]]></link>
 <enclosure
-  url="http://audio2.geometria.ru/d/mp3/290/649/2906492983.mp3"
+  url="http://archive.org/download/ADE2017/105.mp3"
   length="134526742"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 105</guid>
@@ -991,7 +1035,7 @@ house, deep house, progressive house, edm, trap
 </itunes:keywords>
 <link><![CDATA[http://archive.org/details/PF104HQ/index.html]]></link>
 <enclosure
-  url="http://audio.geometria.ru/d/mp3/340/582/340582902.mp3"
+  url="http://archive.org/download/PF104HQ/104.mp4"
   length="139803057"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 104</guid>
@@ -1033,7 +1077,7 @@ house, deep house, progressive house, edm, trap
 </itunes:keywords>
 <link><![CDATA[http://archive.org/details/PF103/index.html]]></link>
 <enclosure
-  url="http://audio2.geometria.ru/d/mp3/277/651/2776515197.mp3"
+  url="http://archive.org/download/PF103/103.mp3"
   length="139803057"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 103</guid>
@@ -1076,7 +1120,7 @@ house, deep house, progressive house, edm, trap
 </itunes:keywords>
 <link>http://archive.org/details/PF102_201708/</link>
 <enclosure
-  url="http://audio2.geometria.ru/d/mp3/219/543/219543818.mp3"
+  url="http://archive.org/download/PF102_201708/102.mp3"
   length="144327279"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 102</guid>
@@ -1122,7 +1166,7 @@ house, deep house, progressive house, edm, trap
 </itunes:keywords>
 <link><![CDATA[http://archive.org/details/PF101/index.html]]></link>
 <enclosure
-  url="http://audio2.geometria.ru/d/mp3/205/422/2054221740.mp3"
+  url="http://archive.org/download/PF101/101.mp3"
   length="141200082 "
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 101</guid>
@@ -1163,7 +1207,7 @@ house, deep house, progressive house, edm, trap
 </itunes:keywords>
 <link><![CDATA[http://archive.org/details/PF100/index.html]]></link>
 <enclosure
-  url="http://audio2.geometria.ru/d/mp3/207/868/2078688250.mp3"
+  url="http://archive.org/download/PF100/100.mp3"
   length="55896213"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 100</guid>
@@ -1254,7 +1298,7 @@ w/ Deniz Koyu – To The Sun (Acapella) [AXTONE]<br>
 </itunes:keywords>
 <link><![CDATA[http://archive.org/details/PF098/index.html]]></link>
 <enclosure
-  url="http://audio.geometria.ru/d/mp3/361/056/3610567039.mp3"
+  url="http://archive.org/download/PF098/098.mp3"
   length="144263088"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 098</guid>
@@ -1317,7 +1361,7 @@ w/ Deniz Koyu – To The Sun (Acapella) [AXTONE]<br>
 </itunes:keywords>
 <link>http://soundcloud.com/strivelifeathletics/mix51</link>
 <enclosure
-  url="http://promodj.com/download/6385330/mix.mp3"
+  url="http://archive.org/download/strivecast2017/mix.mp3"
   length="72569093"
   type="audio/mpeg" />
 <guid isPermaLink="false">StriveCast 2017</guid>
@@ -1403,7 +1447,7 @@ w/ Deniz Koyu – To The Sun (Acapella) [AXTONE]<br>
 </itunes:keywords>
 <link><![CDATA[http://archive.org/details/PF096/index.html]]></link>
 <enclosure
-  url="http://audio2.geometria.ru/d/mp3/152/105/1521058674.mp3"
+  url="http://archive.org/download/PF096/096.mp3"
   length="142870973"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 096</guid>
@@ -1448,7 +1492,7 @@ w/ Deniz Koyu – To The Sun (Acapella) [AXTONE]<br>
 </itunes:keywords>
 <link><![CDATA[http://archive.org/details/PF095/index.html]]></link>
 <enclosure
-  url="http://audio.geometria.ru/d/mp3/578/994/578994651.mp3"
+  url="http://archive.org/download/PF095/095.mp3"
   length="146134180"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 095</guid>
@@ -1492,7 +1536,7 @@ w/ Deniz Koyu – To The Sun (Acapella) [AXTONE]<br>
 </itunes:keywords>
 <link><![CDATA[http://archive.org/details/PF094/index.html]]></link>
 <enclosure
-  url="http://audio.geometria.ru/d/mp3/391/356/3913560724.mp3"
+  url="http://archive.org/download/PF094/094.mp3"
   length="141807809"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 094</guid>
@@ -1535,7 +1579,7 @@ house, future house, deep house, progressive house, future house, trap, eyemax, 
 </itunes:keywords>
 <link><![CDATA[http://archive.org/details/PF093/index.html]]></link>
 <enclosure
-  url="http://audio.geometria.ru/d/mp3/404/320/4043205945.mp3"
+  url="http://archive.org/download/PF093/093.mp3"
   length="144414511"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 093</guid>
@@ -1579,7 +1623,7 @@ house, future house, deep house, progressive house, future house, trap, eyemax, 
 </itunes:keywords>
 <link><![CDATA[http://archive.org/details/PF092/index.html]]></link>
 <enclosure
-  url="http://audio.geometria.ru/d/mp3/424/350/4243501427.mp3"
+  url="http://archive.org/download/PF092/092.mp3"
   length="144177465"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 092</guid>
@@ -1624,7 +1668,7 @@ house, future house, deep house, progressive house, future house, trap, eyemax, 
 </itunes:keywords>
 <link><![CDATA[http://archive.org/details/PF091/index.html]]></link>
 <enclosure
-  url="http://audio2.geometria.ru/d/mp3/263/141/2631415872.mp3"
+  url="http://archive.org/download/PF091/091.mp3"
   length="137435872"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 91</guid>
@@ -1674,7 +1718,7 @@ house, future house, deep house, progressive house, future house, trap, eyemax, 
 </itunes:keywords>
 <link><![CDATA[http://archive.org/details/PF090/index.html]]></link>
 <enclosure
-  url="http://audio2.geometria.ru/d/mp3/573/847/573847695.mp3"
+  url="http://archive.org/download/PF090/090.mp3"
   length="143697072"
   type="audio/mpeg" />
 <guid isPermaLink="false">Episode 90</guid>
