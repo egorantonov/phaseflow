@@ -58,7 +58,7 @@
                 </div>
                 <div id="footer">
                     <div>
-                        Powered by <a target="_blank" href="http://phaseflow.ru">phaseflow.ru</a>
+                        Powered by <a target="_blank" href="https://phaseflow.github.io">phaseflow.github.io</a>
                     </div>
                 </div>
             </div>
