@@ -7,8 +7,8 @@ Listen and be in touch with new trends in modern music!
 
 Subscribe and listen on:
 
-  * [Apple Podcasts](https://bit.ly/PhaseFlow)
-  * [Google Play](https://bit.ly/playpodcast)
+  * [Apple Podcasts](https://bit.ly/phaseflowapple)
+  * [Google Podcasts](https://bit.ly/phaseflowgoogle)
   * [Pocket Casts](https://pca.st/wpos)
   * [Mixcloud](https://mixcloud.com/phaseflow)
   * [VK](https://vk.com/eyemvx)
